@@ -2,34 +2,36 @@
     "name": "Fabiano Raiser",
     "job": "Front-end Student",
     "github": "FabianoRaiser",
-    "banner":"https://images.unsplash.com/photo-1508739826987-b79cd8b7da12?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1073&q=80",
-    "favoritos": { "Canais Recomendados":[
+    "banner": "https://images.unsplash.com/photo-1540591813291-4a54b35cb33d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+    "favoritos": {
+        "Canais Recomendados": [
             {
-                "imgUser":"https://yt3.ggpht.com/m8Yrqf0Y81L4mZ1Cq7rGnJ4NDHe6729rxiFZvWyy9-xd_Z7Osmza7J8NWpN1axMHcCb1oKJNgA=s88-c-k-c0x00ffffff-no-rj",
-                "nameUser":"Mario Souto - Dev Soutinho",
-                "urlUser":"https://www.youtube.com/c/DevSoutinho"
+                "imgUser": "https://yt3.ggpht.com/m8Yrqf0Y81L4mZ1Cq7rGnJ4NDHe6729rxiFZvWyy9-xd_Z7Osmza7J8NWpN1axMHcCb1oKJNgA=s88-c-k-c0x00ffffff-no-rj",
+                "nameUser": "Mario Souto - Dev Soutinho",
+                "urlUser": "https://www.youtube.com/c/DevSoutinho"
             },
             {
-                "imgUser":"https://yt3.ggpht.com/xqhIoXspeX7eqouJvNHl1xqpv9213Pl26ENZbuouXxO2RlDadjsveNXfgnj8GTUk7thFYUkVRg=s88-c-k-c0x00ffffff-no-rj",
-                "nameUser":"Alura Cursos Online",
-                "urlUser":"https://www.youtube.com/user/aluracursosonline"
+                "imgUser": "https://yt3.ggpht.com/xqhIoXspeX7eqouJvNHl1xqpv9213Pl26ENZbuouXxO2RlDadjsveNXfgnj8GTUk7thFYUkVRg=s88-c-k-c0x00ffffff-no-rj",
+                "nameUser": "Alura Cursos Online",
+                "urlUser": "https://www.youtube.com/user/aluracursosonline"
             },
             {
-                "imgUser":"https://yt3.ggpht.com/84ALFuw4UCyfL1TyoMU77D-I6xngPjn2X0kbx2bMAyoFzWwR-utcrbDn_MuNJcroPcmU9NdGGQ=s88-c-k-c0x00ffffff-no-rj",
-                "nameUser":"Rafaella Ballerini",
-                "urlUser":"https://www.youtube.com/c/rafaellaballerini"
+                "imgUser": "https://yt3.ggpht.com/84ALFuw4UCyfL1TyoMU77D-I6xngPjn2X0kbx2bMAyoFzWwR-utcrbDn_MuNJcroPcmU9NdGGQ=s88-c-k-c0x00ffffff-no-rj",
+                "nameUser": "Rafaella Ballerini",
+                "urlUser": "https://www.youtube.com/c/rafaellaballerini"
             },
             {
-                "imgUser":"https://yt3.ggpht.com/_RMeq3r3HuMP8-_z2VPgUF50GlCiO4q9cAN-lSdKjWFEHp0tkXrhYxuqcL9ncscgC5yvAmKJfA=s88-c-k-c0x00ffffff-no-rj",
-                "nameUser":"Pedro Marins",
-                "urlUser":"https://www.youtube.com/c/opedromarins"
+                "imgUser": "https://yt3.ggpht.com/_RMeq3r3HuMP8-_z2VPgUF50GlCiO4q9cAN-lSdKjWFEHp0tkXrhYxuqcL9ncscgC5yvAmKJfA=s88-c-k-c0x00ffffff-no-rj",
+                "nameUser": "Pedro Marins",
+                "urlUser": "https://www.youtube.com/c/opedromarins"
             },
             {
-                "imgUser":"https://yt3.ggpht.com/ytc/AMLnZu8zRDVvn571ZdX60WQnXZngKmUCfAXvAehukf0mOg=s88-c-k-c0x00ffffff-no-rj",
-                "nameUser":"Nerdologia",
-                "urlUser":"https://www.youtube.com/c/nerdologia"
+                "imgUser": "https://yt3.ggpht.com/ytc/AMLnZu8zRDVvn571ZdX60WQnXZngKmUCfAXvAehukf0mOg=s88-c-k-c0x00ffffff-no-rj",
+                "nameUser": "Nerdologia",
+                "urlUser": "https://www.youtube.com/c/nerdologia"
             }
-    ]},
+        ]
+    },
     "playlists": {
         "Musicas": [
             {
@@ -67,7 +69,6 @@
                 "url": "https://www.youtube.com/watch?v=34CZjsEI1yU",
                 "thumb": "https://img.youtube.com/vi/34CZjsEI1yU/hqdefault.jpg"
             }
-            
         ],
         "front-end": [
             {
